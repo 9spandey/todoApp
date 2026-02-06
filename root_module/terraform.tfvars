@@ -1,0 +1,10 @@
+rg_name = "todoapp-rg"
+location = "centralindia"
+vnet_name = "todoapp-vnet"
+address_space = ["10.0.0.0/16"]
+address_prefixes = [ "10.0.1.0/24" ]
+sub01 = "sub01"
+nic_name = "todoapp-nic"
+vm_name = "todoapp-vm"
+kv_name = "todoapp-kv3"
+os_disk_name = "disk01"
