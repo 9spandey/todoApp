@@ -8,3 +8,4 @@ resource "azurerm_resource_group" "rg" {
   }
 }
  #state change
+ # main branch update
