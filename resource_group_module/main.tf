@@ -10,5 +10,6 @@ resource "azurerm_resource_group" "rg" {
  #state change
  # main branch update
 # cherry-pick demo change
+# temp test cherry-pick comment
 
 
