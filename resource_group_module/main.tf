@@ -3,8 +3,8 @@ resource "azurerm_resource_group" "rg" {
     location = var.location
   tags = {
     environment = "dev"
+    owner = "platform-team"
 
   }
-
 }
  #state change
